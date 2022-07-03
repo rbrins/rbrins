@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbrins
-- 👀 I’m interested in cyber security with an emphasis on offensive security and security archtecture
-- 🌱 I’m currently learning about Windows Active Directory, Linux Capabilities, and cloud
-- 💞️ I’m looking to collaborate on low-level windows api studies in combining proof of concept code to blue team to detect the rare or mis-used windows apis
+- 👀 I’m interested in cyber security with an emphasis on offensive security
+- 🌱 I’m currently learning about Adversarial emulation, Anti-Virus evasion, and C2 frameworks
+- 💞️ I’m looking to collaborate on low-level windows api studies
 - 📫 How to reach me email or twitter is probably best
 
 <!---
