@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rbrins
-- 👀 I’m interested in cyber security with an emphasis on offensive security
-- 🌱 I’m currently learning about Adversarial emulation, Anti-Virus evasion, and C2 frameworks
-- 💞️ I’m looking to collaborate on low-level windows api studies
+- 👀 I’m interested in cyber security with an emphasis on offensive security.
+- 🌱 I’m currently learning about Adversarial emulation, Anti-Virus evasion, and application security engineering.
 - 📫 How to reach me email or twitter is probably best
 
 <!---
