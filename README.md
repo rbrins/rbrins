@@ -2,6 +2,8 @@
 - 👀 I’m interested in cyber security with an emphasis on offensive security. I also GM a Pathfinder2e game in a homebrew setting, Eldro-Shards.
 - 🌱 I’m currently learning about Adversarial emulation, Anti-Virus evasion, and application security engineering.
 - 📫 How to reach me email or twitter is probably best
+- 🖥️ My blog can be found at my website - https://rbrins.github.io
+
 
 <!---
 rbrins/rbrins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
