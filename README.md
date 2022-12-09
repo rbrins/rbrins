@@ -1,4 +1,4 @@
-#👋 Hi, I’m @rbrins
+# Hi, I’m @rbrins 👋
 
 - 👀 I’m interested in cyber security with an emphasis on offensive security. 
 
